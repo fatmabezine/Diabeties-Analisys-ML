@@ -11,11 +11,11 @@ In the context of the Pima tribe that this project was conducted to gain insight
 
 ## Objectives
 
-* Explore data analysis in the Pima tribe to study different perspectives of diabetes.
+* The main objectif of this project is to explore data analysis in the Pima tribe in order to study different perspectives of diabetes.
 
 ## Data Sources
 
-The data used in this analysis was recorded on 768 members of the Pima tribe. It also includes number of pregnancies, details on various medical and the age of women, so we can track their issues by age.
+The data used in this analysis was recorded on 768 members of the Pima tribe. It also includes number of pregnancies, details on various medical and the age of women which allows for tracking of issues over time.
 
 ## Analysis Techniques
 
